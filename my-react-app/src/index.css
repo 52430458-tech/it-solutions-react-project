@@ -1,0 +1,150 @@
+body {
+  background-image: url(https://media.istockphoto.com/id/2166408604/photo/group-adult-asia-male-female-freelance-typing-write-prompt-ai-bot-it-app-smart-program-nomad.jpg?s=170667a&w=0&k=20&c=d0EkS5sQ4T48MVP7NXcym__xO88_vfJ57Ue0bnB2ZGM=);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+.heading {
+  color: white;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 100px;
+  font-style: italic;
+  margin-bottom: 50px;
+  margin-top: 90px;
+}
+#about {
+  color: white;
+  margin-top: 70px;
+  font-weight: bold;
+  font-style: italic;
+}
+a {
+  color: black;
+  text-decoration: none !important;
+  margin: 0 10px;
+  padding: 5px 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+a:hover {
+  background-color: yellow;
+  color: black;
+}
+table {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-collapse: collapse;
+  border-style: groove;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+td {
+  padding: 15px;
+}
+.heading {
+  font-size: 90px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-style: oblique;
+}
+.solutions {
+  color: white;
+  margin-top: 70px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.our {
+  color: white;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a.email {
+  background-color: rgba(0, 0, 0, 0);
+  border: 0;
+}
+.navbar {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.686);
+  font-style: italic;
+
+  top: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+.navbara {
+  border-radius: 25px;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
+}
+p {
+  color: white;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.cardtitle {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.page {
+  text-align: center;
+  font-weight: bold;
+}
+.par {
+  color: yellow;
+  font-weight: bold;
+  font-size: 70px;
+}
+.serv {
+  font-weight: bold;
+  text-align: center;
+}
+.card-container {
+  margin: 200px;
+  margin-top: 50px;
+  font-size: 25px;
+}
+.pages {
+  text-align: center;
+  font-weight: bold;
+}
+.aboutus {
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 25px;
+}
+.abouttable {
+  margin-left: 450px;
+  margin-bottom: 60px;
+  font-size: 25px;
+}
+.aboutbtn {
+  margin-bottom: 20px;
+  cursor: pointer;
+  color: black;
+  background: yellow;
+}
+.servbtn {
+  cursor: pointer;
+  color: black;
+  background: yellow;
+}
+.contbtn {
+  cursor: pointer;
+  color: black;
+  background:red;
+}
