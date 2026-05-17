@@ -24,4 +24,12 @@ npm install
 npm run dev
 
 ## Screenshots
-(Add screenshots here)
+![Home Page](screenshotss/Home.png)
+![Contact Page](screenshotss/Contact.png)
+![Service Page](screenshotss/Service.png)
+![About Page](screenshotss/About.png)
+
+Hassan Chok
+
+
+
